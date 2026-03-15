@@ -1,6 +1,6 @@
 -- name: \\#3e5f9c\\Flood \\#00ff00\\+ \\#39c5ff\\Exp\\#dcdcdc\\ [WIP]
 -- incompatible: gamemode
--- description: \\#3e5f9c\\Flood \\#00ff00\\+ \\#39c5ff\\Expanded \\#dcdcdc\\ is a modification of Flood Expanded 1.5.0 for be more good with more levels --note-- Pasue Menu Has been Remaked on the actual version -- Version 2.3.5 -- Why You Reading This? Come on Play The mod!!
+-- description: \\#3e5f9c\\Flood \\#00ff00\\+ \\#39c5ff\\Expanded \\#dcdcdc\\ is a modification of Flood Expanded 1.5.0 for be more good with more levels --note-- Pasue Menu Has been Remaked on the actual version -- Version 1.0 -- Why You Reading This? Come on Play The mod!!
 
 if unsupported then return end
 
@@ -34,7 +34,7 @@ local TEX_ROUNDED_CORNER4 = get_texture_info("cornerbr")
 local flagRotation = 0
 local Timer = 0
 
-version = "v2.3.5"
+version = "v1.0"
 
 targetPlayer = 0
 musicPack = false
