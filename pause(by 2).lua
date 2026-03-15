@@ -410,7 +410,7 @@ local maxOptionWidth = logoWidth
     djui_hud_render_texture(logoTex, x, y, logoScale, logoScale)
 
     -- Texto versión
-    local versionText = "v2.3.5"
+    local versionText = "v1.0"
     local versionScale = 0.4
     local versionX = x
     local versionY = y + logoHeight + 5
